@@ -1,0 +1,18 @@
+{
+  "name": "examen-cordova",
+  "version": "0.0.0",
+  "authors": [
+    "dsesto <d.sesto.94@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
